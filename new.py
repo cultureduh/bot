@@ -9,13 +9,13 @@ from sys import exit
 
 
 
-reddit = praw.Reddit(client_id="DVTcLDJrVwb7lw", #14 letter key
-                     client_secret="ybnGLXIaqUyBYOHBy0wlNXk78LwFMw", #27 letter key
-                     password="12345678",
+reddit = praw.Reddit(client_id="PYZMlO_BQ9m_8Q", #14 letter key
+                     client_secret="G_jJMaVqShph18_plRwt6hR-pm4gvA", #27 letter key
+                     password="C9bot@3103",
                      user_agent="testscript by u/Glum_Stand4277",
-                     username="Glum_Stand4277")
+                     username="c9bot")
  
-result = pyfiglet.figlet_format("Dylan OP") 
+result = pyfiglet.figlet_format("Chris OP") 
 print(result) 
 
 print("Starting Magic............")
